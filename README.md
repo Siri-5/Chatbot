@@ -1,4 +1,5 @@
 # Chatbot for Emotional Support
+[Streamlit App](https://chatbot-oaf4caatfj45wam48qqqtj.streamlit.app/)
 
 ## Overview
 This project implements an interactive chatbot designed to provide emotional support and respond empathetically to user input. The chatbot leverages Natural Language Processing (NLP) techniques to understand user intents and generate appropriate responses. Built with the `nltk` library for NLP, `scikit-learn` for machine learning, and `streamlit` for the web interface, it aims to assist users by listening, understanding, and offering thoughtful replies.
