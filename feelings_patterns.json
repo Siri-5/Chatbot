@@ -1,0 +1,1250 @@
+[
+  {
+      "tag": "greeting",
+      "patterns": [
+          "Hi",
+          "Hello",
+          "Hey",
+          "What's up",
+          "Greetings",
+          "Howdy",
+          "Good morning",
+          "Good afternoon",
+          "Good evening",
+          "Yo"
+      ],
+      "responses": [
+          "Hi there",
+          "Hello",
+          "Hey",
+          "Greetings!",
+          "Howdy!",
+          "Good to see you",
+          "Hello there",
+          "Hi, how can I help you?",
+          "Hey, what's up?"
+      ]
+  },
+  {
+      "tag": "greet",
+      "patterns": [
+          "How are you",
+          "How's it going",
+          "Are you okay",
+          "What's your mood today",
+          "How do you feel",
+          "Feeling good?",
+          "Are you feeling well",
+          "What's up with you",
+          "How do you do",
+          "How's life"
+      ],
+      "responses": [
+          "I am fine, thank you",
+          "I'm good, how about you?",
+          "I'm doing well, thanks for asking",
+          "I'm great! How are you?",
+          "I'm doing fine, thanks",
+          "I'm in good spirits, and you?",
+          "I'm feeling good, how are you?",
+          "All good here, thanks!",
+          "I'm well, thanks for asking",
+          "I'm doing great! What about you?"
+      ]
+  },
+  {
+      "tag": "goodbye",
+      "patterns": [
+          "Bye",
+          "See you later",
+          "Goodbye",
+          "Take care",
+          "Catch you later",
+          "Bye-bye",
+          "See you soon",
+          "Farewell",
+          "I'm out",
+          "Peace"
+      ],
+      "responses": [
+          "Goodbye",
+          "See you later",
+          "Take care",
+          "Bye, have a great day!",
+          "See you soon!",
+          "Farewell",
+          "Catch you later",
+          "Goodbye, stay safe!",
+          "Take care, talk to you later",
+          "Goodbye for now!"
+      ]    },
+  {   "tag": "thanks",
+      "patterns": [
+          "Thank you",
+          "Thanks",
+          "Thanks a lot",
+          "I appreciate it",
+          "You're the best",
+          "Much appreciated",
+          "I'm grateful",
+          "Thanks so much",
+          "Thank you very much",
+          "I owe you one"
+      ],
+      "responses": [
+          "You are welcome",
+          "No problem",
+          "Glad I could help",
+          "My pleasure",
+          "Anytime!",
+          "Don't mention it",
+          "You're welcome",
+          "Happy to help",
+          "I'm glad you liked it",
+          "No worries"
+      ]   },
+  {   "tag": "name",
+      "patterns": [
+          "Who are you",
+          "What are you",
+          "what is your name",
+          "What should I call you",
+          "name",
+          "Who do you belong to",
+          "What should I call you",
+          "Who's talking",
+          "What is your title",
+          "Are you a robot"
+      ],
+      "responses": [
+          "I am a chatbot",
+          "You can call me Chatbot",
+          "I don't have a name, but you can call me Chatbot",
+          "I am known as a chatbot",
+          "My name is Chatbot",
+          "Call me Chatbot",
+          "I'm a virtual assistant",
+          "I'm just an AI chatbot",
+          "I'm a friendly bot",
+          "I'm here to chat with you"
+      ]
+  },
+  {
+      "tag": "about",
+      "patterns": [
+          "What can you do",
+          "What is your purpose",
+          "What are your capabilities",
+          "Why do you exist",
+          "What is your function",
+          "What do you help with",
+          "Can you assist me",
+          "What services do you provide",
+          "What are you used for",
+          "What can you offer"
+      ],
+      "responses": [
+          "I am a chatbot. My purpose is to assist you",
+          "I can answer questions and provide assistance",
+          "I am here to help with your queries",
+          "I provide support and chat with users",
+          "I am here to make your day easier",
+          "My main job is to assist you with your questions",
+          "I'm here to offer guidance and chat",
+          "I can help you with information and support",
+          "My purpose is to provide helpful conversations",
+          "I exist to chat with you and help out"
+      ]
+  },
+  {
+      "tag": "age",
+      "patterns": [
+          "How old are you",
+          "What is your age",
+          "age",
+          "When were you created",
+          "How many years old are you",
+          "What age are you",
+          "What year were you made",
+          "When did you come into existence",
+          "Are you young or old",
+          "How long have you existed"
+      ],
+      "responses": [
+          "I do not have an age. I am a chatbot.",
+          "I was just born in the digital world.",
+          "Age is just a number for me.",
+          "I don't age like humans do.",
+          "I exist in the digital realm, so I don't have an age.",
+          "I was created to help you, not to age.",
+          "I'm timeless, I don't get older.",
+          "I have no age, but I'm here to help you.",
+          "I exist in the realm of data, so age is irrelevant.",
+          "I'm as old as the data I was trained on."
+      ]
+  },
+  {
+      "tag": "joke",
+      "patterns": [
+          "Tell me a joke",
+          "Make me laugh",
+          "Do you know any jokes",
+          "Can you tell me something funny",
+          "I need a laugh",
+          "Tell a funny story",
+          "Share a joke",
+          "Can you make me smile",
+          "Do you like jokes",
+          "Crack a joke"
+      ],
+      "responses": [
+          "Why did the scarecrow win an award? Because he was outstanding in his field!",
+          "What did the ocean say to the beach? Nothing, it just waved.",
+          "Why don't skeletons fight each other? They don't have the guts.",
+          "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+          "Why did the bicycle fall over? Because it was two-tired!",
+          "What do you call fake spaghetti? An impasta!",
+          "Why do bees have sticky hair? Because they use honeycombs.",
+          "What do you call cheese that isn't yours? Nacho cheese!",
+          "Why can't you give Elsa a balloon? Because she will let it go.",
+          "What did one wall say to the other? I'll meet you at the corner."
+      ]
+  },
+  {
+      "tag": "weather",
+      "patterns": [
+          "What's the weather like",
+          "Is it raining",
+          "What's the forecast",
+          "Is it sunny outside",
+          "Is it going to be cold",
+          "Do I need an umbrella today",
+          "What's the temperature",
+          "Tell me the weather",
+          "How's the weather today"
+      ],
+      "responses": [
+          "I'm not sure about the weather. Please check your local weather forecast.",
+          "I can't tell you the weather, but I suggest checking a weather app.",
+          "It's always sunny in my world!",
+          "I don't have access to current weather information, sorry!",
+          "Why don't you check a weather site or app for that?",
+          "The weather is fine here. How about where you are?",
+          "Check your local forecast to see if you need an umbrella!",
+          "I wish I could tell you the weather, but I can't at the moment.",
+          "I can't predict the weather, but stay safe out there!"
+      ]
+  },
+  {
+      "tag": "hobby",
+      "patterns": [
+          "What are your hobbies",
+          "Do you have any interests",
+          "What do you like to do",
+          "What are your favorite activities",
+          "Do you have fun",
+          "What do you do for fun",
+          "Tell me about your hobbies",
+          "What do you enjoy doing",
+          "What's your pastime",
+          "What activities do you like"
+      ],
+      "responses": [
+          "I enjoy chatting with people like you!",
+          "My hobby is learning new things and chatting.",
+          "I like helping people out and providing company.",
+          "My favorite activity is answering your questions.",
+          "I enjoy engaging in conversations and being helpful.",
+          "Talking to you is my main hobby!",
+          "I don't have hobbies, but I do enjoy assisting users.",
+          "My pastime is keeping you entertained and informed.",
+          "I love responding to your queries and having fun chats.",
+          "Helping you is what I do best!"
+      ]
+  },
+
+    {
+        "tag": "anxiety",
+        "patterns": [
+            "I feel nervous all the time and can't stop shaking.",
+            "My chest feels tight, and I can't seem to calm down.",
+            "I keep having these racing thoughts that will not stop.",
+            "I can't sleep because I am constantly worrying.",
+            "I feel like I am spiraling and can't control it.",
+            "anxiety"
+        ],
+        "responses": [
+            "Place your hand on your stomach and feel it rise and fall with each slow breath. This helps signal your body to relax.",
+            "Take a break from what you're doing and focus on the present moment. Notice how your feet feel on the ground.",
+            "Listen to calming music or nature sounds for a few minutes to help soothe your mind.",
+            "Keep a small object, like a stress ball or smooth stone, to hold and focus on when you feel anxious.",
+            "Sip a warm cup of herbal tea to help relax your body and mind.",
+            "If possible, step outside and get some fresh air. A change of environment can help reset your thoughts."
+        ]
+    },  {
+        "tag": "stress",
+        "patterns": [
+            "I feel so tense, like my muscles are in knots.",
+            "My mind is going a mile a minute, and I can't focus.",
+            "I feel like I have no time to breathe.",
+            "I have too many responsibilities and don't know where to start.",
+            "I feel overwhelmed by everything going on.",
+            "I feel like I am being pulled in every direction.",
+            "stress",
+            "feeling stressed",
+            "i am stressed",
+            "stressed"
+        ],
+        "responses": [
+            "Take a few deep breaths, inhaling for four counts and exhaling for six. This can help calm your nervous system.",
+            "Stretch your arms and neck to release some of the physical tension you're holding.",
+            "Make a list of your tasks and focus on one small thing at a time.",
+            "Drink a glass of water and take a five-minute break to clear your mind.",
+            "Listen to a calming playlist or nature sounds for a quick mental reset.",
+            "Step away from your work and look at something green, like plants or trees. This can help reduce stress."
+        ]
+    },
+    {
+        "tag": "stress_management",
+        "patterns": [
+            "i am stressed",
+            "feeling stressed",
+            "I feel so stressed right now.",
+            "Everything is overwhelming me.",
+            "I can't handle all this stress.",
+            "I feel like I am under too much pressure.",
+            "I am struggling to relax because of stress.",
+            "I feel burnt out and tired.",
+            "I can't seem to calm down.",
+            "I feel so tense and overwhelmed.",
+            "I am stressed about everything happening.",
+            "I don't know how to deal with this stress.",
+            "how to manage stress"
+        ],
+        "responses": [
+            "Take a deep breath: Inhale for 4 seconds, hold for 4 seconds, and exhale for 6 seconds.",
+            "Stretch your body gently, focusing on your neck, shoulders, and back to release tension.",
+            "Step outside and take a short walk to clear your mind and get some fresh air.",
+            "Write down everything that's on your mind to help organize your thoughts and reduce mental clutter.",
+            "Focus on one small task you can accomplish right now to regain a sense of control.",
+            "Listen to calming music or nature sounds to create a peaceful environment.",
+            "Pause for five minutes and focus on your breathing or try a short meditation.",
+            "Find a quiet space, close your eyes, and visualize a peaceful scene like a beach or a forest.",
+            "Remind yourself that it's okay to take breaks and prioritize your well-being.",
+            "Engage in a quick physical activity, like jumping jacks or a brisk walk, to release stress energy.",
+            "Take a few moments to count five things you can see, four you can touch, three you can hear, two you can smell, and one you can taste. This grounding exercise can help bring you back to the present moment.",
+            "Reach out to a trusted friend or family member and talk about how you're feeling.",
+            "Remember that stress is temporary, and you have the strength to handle it step by step."
+        ]
+    },  {
+        "tag": "sadness",
+        "patterns": [
+            "i am sad",
+            "sad",
+            "i am feeling sad",
+            "I feel like crying, but I don't want to burden anyone.",
+            "Nothing makes me happy anymore.",
+            "I feel like everything is pointless.",
+            "I feel like no one understands how sad I am.",
+            "I feel stuck in this sadness, like it will never end.",
+            "I feel sad",
+            "I am really sad",
+            "I feel low",
+            "I am just not happy",
+            "I feel like crying",
+            "I don't have any energy",
+            "I just want to be alone"
+        ],
+        "responses": [
+            "It's okay to feel sad. Take some time for yourself, maybe relax or do something that comforts you.",
+            "Sadness is a part of life, and it will pass. Be gentle with yourself and allow yourself to feel.",
+            "Talking to someone you trust can really help when you're feeling down. You're not alone.",
+            "Try to focus on one small thing that brings you comfort. Whether it's a song, a pet, or a memory, it can help.",
+            "Hug a pillow or a soft blanket. Physical comfort can help ease emotional pain.",
+            "Put on a favorite movie or show that feels comforting or nostalgic.",
+            "Write down three small things you're grateful for, no matter how small they seem.",
+            "Drink some water and remind yourself that emotions, like sadness, come and go.",
+            "Try drawing or doodling, even if you're not an artist. Creative expression can help you process emotions."
+        ]
+    },   {
+        "tag": "happy",
+        "patterns": [
+            "i am happy",
+            "happy",
+            "feeling happy",
+            "i am feeling happy",
+          " I am feeling great",
+          " I am so happy",
+          "I feel wonderful",
+          " I am on cloud nine",
+          " I am so excited",
+          "Life is amazing right now",
+          "I can't stop smiling",
+          "Everything is going perfectly",
+          "I am so grateful for this moment"
+        ],
+        "responses": [
+          " I am so glad you're feeling happy! Keep riding that wave of positivity.",
+          "Enjoy the good vibes! Keep smiling and embracing the happiness you're feeling.",
+          "Your happiness is inspiring! Hold onto this feeling and share it with others.",
+          "I am thrilled to hear you're so happy! Cherish these moments and spread the joy."
+        ]
+      },
+      {
+        "tag": "joyful",
+        "patterns": [
+            "i am joyful",
+            "joyfull",
+            "feeling joyfull",
+            "i am feeling joyfull",
+          " I am feeling joyful",
+          " I am so joyful",
+          "I feel full of joy",
+          "I am experiencing pure joy",
+          "Joy is overflowing in me",
+          "I can't help but feel joyful",
+          "Everything seems brighter today",
+          "I am filled with joy and gratitude"
+        ],
+        "responses": [
+          "It's amazing to hear you're feeling joyful! Let that joy fill your day and keep spreading positivity.",
+          "Joy is contagious! Enjoy the happiness you're feeling and carry that energy with you.",
+          "Your joy is truly uplifting! Keep enjoying the moment and sharing that light.",
+          "I am so happy for you! Embrace this feeling and let it motivate you to keep going."
+        ]
+      },
+      {
+        "tag": "excited",
+        "patterns": [
+            "i am excited",
+            "excited",
+            "feeling excited",
+            "i am feeling excited",
+          " I am so excited",
+          "I can't wait",
+          "I feel thrilled",
+          " I am looking forward to it",
+          "I am pumped up",
+          "My heart is racing with excitement",
+          "I am eagerly anticipating it",
+          "I can barely contain my excitement",
+          "I am counting down the days"
+        ],
+        "responses": [
+          "Excitement is such a powerful feeling! Let it fuel your enthusiasm and make today amazing.",
+          "Keep that excitement going! It's a wonderful feeling, and it'll push you to do great things.",
+          "Your excitement is palpable! Let it carry you through the day and keep your energy high.",
+          "I can feel your excitement! Embrace it and turn that anticipation into action."
+        ]
+      },   {
+        "tag": "satisfied",
+        "patterns": [
+            "i am satisfied",
+            "satisfied",
+            "feeling satisfied",
+            "i am feeling satisfied",
+          "I feel satisfied",
+          "I am content with what I've done",
+          "I feel complete",
+          "I am happy with my progress",
+          "I feel accomplished",
+          "I am proud of what I've achieved",
+          "I am content with the outcome",
+          "I am pleased with my efforts"
+        ],
+        "responses": [
+          "It's amazing to feel satisfied with yourself. Take pride in the work you've done and the progress you've made.",
+          "Satisfaction is a beautiful feeling. You've put in the effort, and now you get to enjoy the results.",
+          "Celebrate your achievements and be proud of the progress you've made.",
+          "Feel that sense of fulfillment and let it inspire you to keep moving forward."
+        ]
+      },         {
+        "tag": "angry",
+        "patterns": [
+            "i am angry ",
+            "angry",
+            "feeling angry",
+            "i am feeling  angry",
+            "I am feeling angry",
+            "I am really mad",
+            "I am frustrated",
+            "I am so pissed off",
+            "I am furious",
+            "I am outraged",
+            "I am livid",
+            "I can't control my anger",
+            "I am fuming",
+            "I am enraged"
+        ],
+        "responses": [
+            "I am sorry you're feeling angry. Take a deep breath and try to calm down. It's okay to feel upset, but try to find a way to release that tension in a healthy way.",
+            "Anger can be overwhelming. Maybe take a moment to step back, breathe, and relax. You'll feel better.",
+            "Anger is a powerful emotion, and it's important to express it safely. Try journaling or talking to someone you trust.",
+            "Find a healthy outlet for your anger, like exercise or a creative project. It can make a big difference."
+        ]
+    },   {
+        "tag": "irritated",
+        "patterns": ["it is irritating ",
+            "feeling irritated",
+            "i am feeling irritated",
+            "I am irritated",
+            "I am so annoyed",
+            "This is frustrating",
+            "I feel bothered",
+            "I am pissed off",
+            "I am irritated by everything",
+            "This is getting on my nerves",
+            "I can't stand this",
+            "I am fed up",
+            "I am frustrated with this situation"
+        ],
+        "responses": [
+            "It's tough to feel irritated. Sometimes, stepping away from the situation or taking a break can help reset your mood.",
+            "Take a moment to breathe. It's okay to feel irritated, but try not to let it take over. Things will get better.",
+            "It's okay to be annoyed. Try a quick change of scenery or focus on something positive.",
+            "When you feel irritated, pause and remind yourself that this feeling will pass."
+        ]
+    },   {
+        "tag": "annoyed",
+        "patterns": [
+            "I am annoyed",
+            "I feel irritated",
+            "This is bugging me",
+            "I can't stand this",
+            "This is annoying",
+            "I am so irritated",
+            "This is frustrating me",
+            "I feel so annoyed right now",
+            "I am losing my patience",
+            "This is making me upset"
+        ],
+        "responses": [
+            "I understand you're feeling annoyed. It's okay to feel that way, but try to release that tension by doing something calming like a walk or deep breathing.",
+            "Sometimes, a little time away from what's bothering you can really help. Take a breather.",
+            "You can work through irritation by focusing on what you can change or improve.",
+            "Shift your attention to something positive or humorous to help alleviate the annoyance."
+        ]
+    },   {
+        "tag": "discouraged",
+        "patterns": [
+          "I feel so discouraged",
+          "I feel like giving up",
+          "I can't find the motivation",
+          "I am feeling hopeless right now",
+          "I am at my lowest point",
+          "I don't see the point in trying",
+          "I feel like I've failed",
+          "I am tired of not getting anywhere",
+          "I feel defeated by everything",
+          "I am feeling hopeless",
+          "No matter what I do, it doesn't seem to work"
+        ],
+        "responses": [
+          "It's okay to feel down sometimes. Take a deep breath, and remember that this moment won't last forever. You've made it through hard times before, and you can do it again.",
+          "Feeling discouraged is part of the process. Break your goals down into smaller, manageable steps, and celebrate even the small wins.",
+          "Don't be too hard on yourself. Progress isn't always linear, and taking things one step at a time can make a huge difference.",
+          "It's normal to feel like this, but try to remind yourself of your strengths and past accomplishments.",
+          "Remember, it's okay to rest. Sometimes, a short break can provide the perspective you need to push forward.",
+          "Talk to someone you trust about how you're feeling. You'd be surprised at how much a conversation can lift your spirits.",
+          "When you feel like giving up, remind yourself why you started. This can help you rediscover your motivation.",
+          "Give yourself permission to take things slowly. It's better to move forward at your own pace than to burn out.",
+          "Try to look for the little wins throughout your day, even if they seem small. They add up over time.",
+          "Every setback is a setup for a comeback. You are resilient, and this challenge will make you stronger."
+        ]
+      },
+      {
+        "tag": "unhappy",
+        "patterns": [
+          "I feel really down today",
+          "I am not happy at all",
+          "I am just feeling off",
+          "Nothing seems to bring me joy",
+          "I don't feel like myself",
+          "I am not excited about anything",
+          "I feel lost in my emotions",
+          "I feel like something is missing",
+          "I feel empty inside",
+          "I am struggling to find happiness"
+        ],
+        "responses": [
+          "It's okay to feel unhappy sometimes. Try to take it easy and do something that brings you comfort, even if it's small.",
+          "When you're feeling unhappy, remind yourself that emotions are temporary. Reach out to friends or family if you need support.",
+          "You're not alone in feeling this way. It can help to talk to someone who understands or seek professional guidance if needed.",
+          "Find a small activity that makes you smile, even if it's just listening to your favorite song or watching a comforting show.",
+          "Try to pinpoint what's making you feel this way. Understanding your emotions can be the first step toward feeling better.",
+          "Engage in some self-care. Whether it's a bath, a walk outside, or a warm cup of tea, doing something nurturing can help.",
+          "Remember that happiness is not constant, and it's okay to have moments where you don't feel your best.",
+          "Focus on the present moment and try some mindfulness exercises. This can help shift your perspective and calm your mind.",
+          "Even when you don't feel happy, find one thing you're grateful for. Gratitude can help lift your spirits.",
+          "It's perfectly fine to feel this way. Allow yourself to feel, process, and know that tomorrow is a new day."
+        ]
+      },
+      {
+        "tag": "tensed",
+        "patterns": [
+          "I feel so tense",
+          "I am holding tension in my body",
+          "I feel like I am about to snap",
+          "My muscles are tight",
+          "I feel overwhelmed with stress",
+          "I am constantly on edge",
+          "I feel wound up",
+          "I can't relax no matter what I do",
+          "I feel physically tense",
+          "My body feels tight and sore"
+        ],
+        "responses": [
+          "Tension can be overwhelming. Try some stretches or take a few moments to practice deep breathing.",
+          "It can help to focus on relaxing one muscle group at a time, starting from your toes and moving up.",
+          "When you feel tense, try a quick meditation or guided relaxation exercise to release that built-up energy.",
+          "Take a moment to pause and check in with your body. Are you holding tension somewhere? Try to consciously release it.",
+          "If possible, practice progressive muscle relaxation. Tense each muscle group for a few seconds and then let go.",
+          "Go for a walk or do some light exercise. Movement can help alleviate physical tension.",
+          "Try to create a calming environment with soft music or an essential oil diffuser. Sometimes a soothing atmosphere can help.",
+          "Deep, slow breathing can help calm the nervous system. Inhale for 4 counts, hold for 4, and exhale for 4.",
+          "A warm bath or shower can work wonders to relax sore or tight muscles.",
+          "Remember to be gentle with yourself. It's okay to take a break and rest when needed."
+        ]
+      },
+      {
+        "tag": "nervous",
+        "patterns": [
+          "I am feeling nervous about something",
+          "I am anxious about the future",
+          "My heart is racing",
+          "I am jittery and on edge",
+          "I am feeling a little unsettled",
+          "I have butterflies in my stomach",
+          "I am worried I won't be good enough",
+          "I feel a sense of dread",
+          "I am afraid I'll mess up",
+          "I am feeling restless and nervous"
+        ],
+        "responses": [
+          "Nervousness is a natural response to uncertainty. Take a deep breath, trust yourself, and know that you can face whatever comes next.",
+          "When you're nervous, try focusing on something in your environment to ground yourself. You are capable of handling this.",
+          "Remember, nerves are just energy. Try to channel that energy into positive action.",
+          "Take a moment to remind yourself that you've prepared as best as you could. You can do this.",
+          "Listen to calming music or take a few deep breaths. This can help calm the nervousness.",
+          "Practice positive self-talk. Remind yourself of your strengths and how you've overcome challenges before.",
+          "It's okay to be nervous. It just means you care. Use that energy to propel you forward.",
+          "Visualize a successful outcome. Picture yourself handling the situation with ease.",
+          "Try to keep your body active. A quick stretch or a walk can reduce nervousness.",
+          "Accept that nerves are a part of growth. Embrace them as a sign that you're stepping outside your comfort zone."
+        ]
+      },
+      {
+        "tag": "worried",
+        "patterns": [
+          "I can't stop worrying",
+          "I am constantly thinking about the worst-case scenario",
+          "I am feeling anxious about the future",
+          "I feel like something bad is going to happen",
+          "I am overwhelmed by my thoughts",
+          "I am worrying about everything",
+          "My mind won't stop spinning",
+          "I am overly concerned about this situation",
+          "I keep thinking of all the things that could go wrong",
+          "I feel anxious about what lies ahead"
+        ],
+        "responses": [
+          "Worrying often makes things seem bigger than they are. Take a moment to breathe and try to focus on what you can do right now.",
+          "When you're worried, write down what's on your mind. Seeing your thoughts on paper can help you organize and address them.",
+          "Ask yourself if there's anything you can do to alleviate your worries. If not, try to let them pass for now.",
+          "Worry is a normal part of caring about something. Acknowledge your worry and then try to refocus on the present.",
+          "Practice mindfulness to stay in the moment. This can help calm anxious thoughts about the future.",
+          "Reach out to someone you trust to talk about your worries. Verbalizing your fears can help lessen their impact.",
+          "Focus on what's within your control. Letting go of what you can't change can ease a lot of stress.",
+          "It can be helpful to practice gratitude. Listing a few things you're thankful for can shift your mindset.",
+          "Take one step at a time. You don't need to solve everything at once; focusing on one task at a time can make a big difference.",
+          "Remember that most of the things we worry about never actually happen. Try to put your concerns into perspective."
+        ]
+      },
+      {
+        "tag": "burned_out",
+        "patterns": [
+          "I feel burned out",
+          "I am overworked",
+          "I am at my limit",
+          "I can't do this anymore",
+          "I am so exhausted",
+          "I am mentally drained",
+          "I am burned out from work",
+          "I need a break",
+          "I am beyond tired",
+          "Everything feels overwhelming"
+        ],
+        "responses": [
+          "Burnout is a sign you need to slow down and care for yourself. Take a break, rest, and recharge to regain energy.",
+          "It's okay to feel burned out. Take time for yourself to rest and reflect. Sometimes stepping away can give you a new perspective.",
+          "Try to prioritize tasks and delegate if possible to lighten your load.",
+          "Taking a day off or even just a few hours can help you recover and refocus.",
+          "Don't hesitate to reach out for support from friends, family, or a professional.",
+          "Self-care is not selfish. Make sure you're taking care of your mental and physical health.",
+          "Sometimes changing your environment, even for a short period, can help reset your mind.",
+          "Remember, you don't have to be perfect. It's okay to take a step back and breathe.",
+          "Consider practicing mindfulness or meditation to help clear your mind.",
+          "Taking small breaks throughout your day can prevent burnout from worsening."
+        ]
+      },
+      {
+        "tag": "lethargic",
+        "patterns": [
+          "I feel lethargic",
+          "I have no energy",
+          "I feel sluggish",
+          "I am so lazy",
+          "I feel heavy and tired",
+          "I can't seem to get moving",
+          "I have no motivation",
+          "I am feeling weak",
+          "I just want to lay down",
+          "I am lacking energy"
+        ],
+        "responses": [
+          "Lethargy can sometimes be a sign your body needs rest. Try to get some rest and hydrate yourself to feel more energized.",
+          "If you're feeling lethargic, a little movement, fresh air, and hydration can help you regain some energy.",
+          "Eating a healthy snack or drinking water can help you feel more awake.",
+          "Get up and stretch a bit; even a few minutes of movement can make a difference.",
+          "Check your sleep patterns. If you're not getting enough rest, that could be the cause.",
+          "Try incorporating light exercises or yoga into your routine to boost energy.",
+          "If possible, take a short walk outside to get some fresh air and sunlight.",
+          "Avoid overly processed foods and drinks with high sugar content, as they can make you feel more tired.",
+          "A quick break to do something you enjoy can help reinvigorate you.",
+          "Sometimes just resting for a few minutes can help recharge your energy."
+        ]
+      },
+      {
+        "tag": "bored",
+        "patterns": [
+          "I am bored",
+          "I don't feel like doing anything",
+          "There's nothing to do",
+          "I feel so uninterested",
+          "I am bored out of my mind",
+          "I am tired of everything",
+          "I need something new",
+          "I am in a rut",
+          "Nothing excites me right now",
+          "I have nothing to look forward to"
+        ],
+        "responses": [
+          "Boredom is common, but it can be an opportunity to try something new. Read, take up a hobby, or explore something you enjoy.",
+          "When you're bored, try to shift your focus. Sometimes, exploring a new activity or even relaxing can make a big difference.",
+          "Try something creative like drawing, writing, or crafting to engage your mind.",
+          "Watch a movie or show you've been wanting to see.",
+          "Boredom can also mean your brain needs a break. Take a short walk or do a quick meditation.",
+          "Learn a new skill or start a small project that interests you.",
+          "Connect with friends or family for a quick chat or video call.",
+          "Boredom can inspire great ideas. Reflect on what you would like to do and set a plan.",
+          "Try cooking or baking something new in the kitchen.",
+          "Reading a book or listening to an interesting podcast can also help."
+        ]
+      },
+      {
+        "tag": "uninterested",
+        "patterns": [
+          "I feel uninterested",
+          "Nothing excites me",
+          "I don't care about anything",
+          "I am not feeling anything",
+          "Everything seems dull",
+          "I don't want to engage",
+          "I am not motivated",
+          "I feel indifferent",
+          "I am just going through the motions",
+          "I can't get interested in anything"
+        ],
+        "responses": [
+          "It's normal to feel uninterested at times. Perhaps try something completely new to reawaken your curiosity or relax for a while.",
+          "When you're feeling uninterested, it might help to take a break and then return to things when you're feeling more energized.",
+          "Reflect on what used to excite you and try revisiting those interests.",
+          "Engage in activities that promote mindfulness or relaxation.",
+          "Taking a short nap or rest can help reset your energy and mood.",
+          "Consider stepping outside for a change of scenery and fresh air.",
+          "Sometimes talking to someone or sharing how you feel can spark new interests.",
+          "Set small, achievable goals for yourself to find a sense of purpose.",
+          "It's okay to feel this way; give yourself permission to rest without guilt.",
+          "Try reconnecting with a hobby or interest you enjoyed in the past."
+        ]
+      },
+        {
+            "tag": "self_esteem",
+            "patterns": [
+                "I don't feel good about myself.",
+                "I feel like I am not worthy.",
+                "I am constantly comparing myself to others.",
+                "I don't believe I deserve good things.",
+                "I feel like I am not enough.",
+                "I struggle to accept compliments.",
+                "I feel insecure about my abilities.",
+                "I think I am just not good enough.",
+                "I have a hard time seeing my own value.",
+                "I often feel like a failure."
+            ],
+            "responses": [
+                "Recognize your accomplishments, big or small. You are more capable than you think.",
+                "Avoid comparing yourself to others. Your journey is unique, and you are enough as you are.",
+                "Practice positive affirmations, such as ‘I am worthy' and ‘I am enough.'",
+                "Spend time doing something that makes you feel good and confident.",
+                "Remember that everyone has struggles, and you're not alone in feeling this way.",
+                "You deserve kindness and love, including from yourself.",
+                "Take a moment to appreciate your strengths and what makes you unique.",
+                "It's okay to have moments of doubt. What matters is that you keep moving forward.",
+                "Surround yourself with people who lift you up and remind you of your worth.",
+                "Every person has value, and that includes you. You matter."
+            ]
+        },
+        {
+            "tag": "overwhelm",
+            "patterns": [
+                "I have so much to do, I don't know where to start.",
+                "I feel like I am drowning in responsibilities.",
+                "Everything is too much right now.",
+                "I can't keep up with all my tasks.",
+                "I am overwhelmed with everything happening.",
+                "I feel like I am going to break down.",
+                "There are too many things on my plate.",
+                "I don't know how to handle all this stress.",
+                "I am feeling completely overworked.",
+                "I am struggling to stay on top of things."
+            ],
+            "responses": [
+                "Break your tasks into smaller, manageable steps and focus on one at a time.",
+                "Take a few minutes to clear your workspace or organize your thoughts.",
+                "Prioritize your to-do list and tackle the most important tasks first.",
+                "Remember to take breaks between tasks to rest and recharge.",
+                "Ask for help or delegate tasks if possible. You don't have to do it all alone.",
+                "Try deep breathing exercises or meditation to calm your mind.",
+                "Don't be afraid to say no to new commitments if you're already overwhelmed.",
+                "Acknowledge that you're doing the best you can, and that's enough.",
+                "Set aside specific times to focus on each task to stay on track.",
+                "Remind yourself that it's okay to not have everything perfectly organized."
+            ]
+          },    
+
+      {
+          "tag": "hope",
+          "patterns": [
+              "I don't feel hopeful about the future.",
+              "I am worried that things won't get better.",
+              "I feel like there's no light at the end of the tunnel.",
+              "I don't know how to stay hopeful.",
+              "I am struggling to see the positive side.",
+              "I feel lost and uncertain about what lies ahead.",
+              "I can't see any good outcomes right now.",
+              "It feels like everything is falling apart.",
+              "I don't have the strength to keep going.",
+              "I feel defeated and hopeless."
+          ],
+          "responses": [
+              "Remind yourself that challenges are temporary and you have faced difficulties before.",
+              "Find small things that bring you joy each day to help shift your perspective.",
+              "Focus on what you can do today rather than worrying about tomorrow.",
+              "Connect with people who uplift and inspire you to keep hope alive.",
+              "Remember that hope can grow with time, even when it feels small.",
+              "Take things one step at a time, and don't be too hard on yourself.",
+              "You have made it through tough times before, and you can do it again.",
+              "It's okay to feel unsure; try to focus on one small positive thing.",
+              "Remind yourself that progress is not always visible, but it's happening.",
+              "You are stronger than you think, and brighter days are ahead."
+          ]
+      },
+      {
+          "tag": "social_anxiety",
+          "patterns": [
+              "I feel anxious when I have to talk to people.",
+              "I am scared of social situations.",
+              "I worry too much about what others think of me.",
+              "I feel out of place in social settings.",
+              "I avoid social events because I am nervous.",
+              "I feel my heart race when I have to interact with others.",
+              "I'm afraid of embarrassing myself in front of people.",
+              "Social gatherings make me feel overwhelmed.",
+              "I struggle to make eye contact with people.",
+              "I get nervous just thinking about talking to strangers."
+          ],
+          "responses": [
+              "Remember, most people are more focused on themselves than on judging you.",
+              "Start with small interactions and gradually work your way up to bigger social settings.",
+              "Practice deep breathing before social events to calm your nerves.",
+              "Focus on enjoying the moment and connecting with one or two people at a time.",
+              "Remind yourself that it's okay to feel anxious, and you can handle it.",
+              "Try to focus on what others are saying, rather than how you feel.",
+              "You are not alone; many people feel the same way.",
+              "Take things one conversation at a time, and don't expect perfection.",
+              "Challenge negative thoughts with positive or realistic ones.",
+              "Remind yourself that the world is not judging you as harshly as you think."
+          ]
+      },
+      {
+          "tag": "positivity",
+          "patterns": [
+              "Spread some positivity",
+              "Tell me a positive quote",
+              "How to stay positive",
+              "Give me a motivational message",
+              "Share an uplifting thought",
+              "How can I feel more positive",
+              "What are some positive affirmations",
+              "I need some good vibes",
+              "Can you inspire me",
+              "Tell me something cheerful"
+          ],
+          "responses": [
+              "Every day is a new opportunity to make a positive impact. You are capable of great things!",
+              "Remember, you are strong, resilient, and capable of overcoming challenges.",
+              "Start each day with a positive thought and watch how your day changes.",
+              "You deserve happiness and success—keep believing in yourself.",
+              "Focus on the good things, and gratitude will follow.",
+              "Your thoughts have power—choose to focus on the positive.",
+              "Believe in your potential, and don't be afraid to shine.",
+              "You are not defined by your mistakes, but by how you rise from them.",
+              "Keep pushing forward, even on tough days. Positivity will grow.",
+              "Spread kindness wherever you go; it comes back to you in abundance."
+          ]
+      },     {
+        "tag": "motivation",
+        "patterns": [
+            "motivate",
+          "I need some motivation",
+          "I am feeling unmotivated",
+          "I need a push",
+          "I am struggling to stay motivated",
+          "I feel like giving up",
+          "I need encouragement",
+          "I am not motivated today",
+          "I need to get back on track",
+          "I am feeling demotivated",
+          "encourage me",
+          "want some encouragement",
+          "I need some inspiration to keep going"
+        ],
+        "responses": [
+          "Remember why you started and let that drive you forward.",
+          "Every small step you take is progress. Keep going!",
+          "Challenges are what make life interesting. Push through them.",
+          "You're stronger than you think. Don't stop now!",
+          "Setbacks are temporary, but your determination is permanent.",
+          "Don't be afraid to fail; be afraid to not try.",
+          "Focus on your goals and take it one step at a time.",
+          "You have come so far already. Keep pushing forward!",
+          "Believe in yourself, and you'll be amazed at what you can achieve.",
+          "Push through today, and tomorrow will be even better."
+        ]
+      },
+      {
+        "tag": "inspiration",
+        "patterns": [
+          "I need some inspiration",
+          "I am looking for inspiration",
+          "I feel uninspired",
+          "I need something to inspire me",
+          "Can you inspire me?",
+          "I am not feeling inspired",
+          "I need a bit of inspiration",
+          "Give me something inspiring",
+          "I am stuck and need inspiration",
+          "I want to feel inspired"
+        ],
+        "responses": [
+          "You are capable of amazing things. Believe in yourself and take that first step.",
+          "The future belongs to those who believe in the beauty of their dreams.",
+          "Inspiration often comes when you least expect it. Keep your mind open.",
+          "The only limit to our realization of tomorrow is our doubts of today.",
+          "You have the power to create change and inspire others.",
+          "Take a deep breath, and let your inner light shine.",
+          "Life is 10% what happens to us and 90% how we react to it.",
+          "Be the reason someone believes in the goodness of people.",
+          "A day without laughter is a day wasted.",
+          "Keep moving forward. Your journey will inspire others."
+        ]
+      },  {
+        "tag": "quotes",
+        "patterns": [
+          "Can you give me a quote?",
+          "I want an inspiring quote",
+          "Tell me a motivational quote",
+          "Do you know any quotes?",
+          "I need a quote to lift my spirits",
+          "Share a powerful quote with me",
+          "Give me a quote to reflect on",
+          "I love quotes, tell me one",
+          "What's a good quote for today?",
+          "I want a quote about life"
+        ],
+        "responses": [
+          "\"The only way to do great work is to love what you do.\" - Steve Jobs",
+          "\"Believe you can and you're halfway there.\" - Theodore Roosevelt",
+          "\"You are never too old to set another goal or to dream a new dream.\" - C.S. Lewis",
+          "\"Success is not final, failure is not fatal: It is the courage to continue that counts.\" - Winston Churchill",
+          "\"It always seems impossible until it's done.\" - Nelson Mandela",
+          "\"The best time to plant a tree was 20 years ago. The second best time is now.\" - Chinese Proverb",
+          "\"Don't watch the clock; do what it does. Keep going.\" - Sam Levenson",
+          "\"Our greatest glory is not in never falling, but in rising every time we fall.\" - Confucius",
+          "\"Life is what happens when you're busy making other plans.\" - John Lennon",
+          "\"Keep your face always toward the sunshine—and shadows will fall behind you.\" - Walt Whitman"
+        ]
+      },
+      {
+        "tag": "jokes",
+        "patterns": [
+          "Tell me a joke",
+          "I need a laugh",
+          "Can you make me laugh?",
+          "Tell me something funny",
+          "I want a joke",
+          "Give me a funny joke",
+          "Do you know any jokes?",
+          "Make me smile",
+          "Tell me a funny story",
+          "I could use a joke right now"
+        ],
+        "responses": [
+          "Why did the scarecrow win an award? Because he was outstanding in his field!",
+          "Why did the bicycle fall over? It was two-tired.",
+          "What did one wall say to the other wall? I'll meet you at the corner!",
+          "Why can't you give Elsa a balloon? Because she will let it go!",
+          "Why did the computer go to the doctor? It had a virus!",
+          "What do you call fake spaghetti? An impasta!",
+          "Why did the math book look sad? Because it had too many problems.",
+          "Why don't skeletons fight each other? They don't have the guts.",
+          "What do you call cheese that isn't yours? Nacho cheese!",
+          "Why was the belt arrested? For holding up a pair of pants!"
+        ]
+      },
+      {
+        "tag": "disappointment",
+        "patterns": [
+          "I am so disappointed",
+          "I feel let down",
+          "I am disappointed in myself",
+          "I am feeling disappointed",
+          "I am disappointed with the outcome",
+          "This is disappointing",
+          "I am frustrated and disappointed",
+          "I didn't expect this outcome",
+          "I am feeling down about it",
+          "I can't believe it turned out this way"
+        ],
+        "responses": [
+          "It's okay to feel disappointed. Give yourself time to process and heal.",
+          "Disappointment is part of life, but it doesn't define you. Learn from it and move forward.",
+          "Remember that setbacks are not failures; they're lessons.",
+          "Sometimes things don't go as planned, but you can always try again.",
+          "It's important to acknowledge your feelings and take care of yourself.",
+          "Even in disappointment, there's room for growth and new opportunities.",
+          "Be kind to yourself. Not everything goes perfectly, and that's okay.",
+          "Let go of what you can't change and focus on what you can control.",
+          "Don't let disappointment take away your hope. Better days are ahead.",
+          "Feeling disappointed shows that you care. Use it as motivation to improve."
+        ]
+      },
+      {
+        "tag": "exhausted",
+        "patterns": [
+          "I am so exhausted",
+          "I can't keep going",
+          "I am feeling worn out",
+          "I need rest",
+          "I am tired beyond words",
+          "I am completely drained",
+          "I have no energy left",
+          "I am physically and mentally exhausted",
+          "I feel like collapsing",
+          "I am so fatigued"
+        ],
+        "responses": [
+          "Rest is important. Make sure to take breaks and recharge your energy.",
+          "Exhaustion is a sign that your body needs a break. Listen to it.",
+          "Try to prioritize your well-being and take some time off to recover.",
+          "Take a deep breath, and allow yourself the rest you need.",
+          "Don't push yourself too hard. It's okay to slow down and rest.",
+          "Hydration and proper nutrition can help combat exhaustion.",
+          "Consider taking a short nap or going for a walk to boost your energy.",
+          "Resting now can help you feel more energized later on.",
+          "Listen to your body—it knows what it needs.",
+          "Be gentle with yourself. You deserve rest and self-care."
+        ]
+      },
+      {
+        "tag": "tired",
+        "patterns": [
+          "I am so tired",
+          "I can't keep my eyes open",
+          "I am feeling sleepy",
+          "I need to rest",
+          "I am drained",
+          "I am running on empty",
+          "I am constantly tired",
+          "I feel sluggish",
+          "I need a break",
+          "I am tired all the time",
+          "help me, i am feeling tired",
+          "i am feeling tired",
+          "i am tired"
+        ],
+        "responses": [
+          "Make sure to get enough sleep and stay hydrated.",
+          "A short nap can do wonders if you're feeling tired.",
+          "Try to avoid screens before bedtime to improve sleep quality.",
+          "Get some fresh air; even a few minutes outside can refresh you.",
+          "Listen to your body it's okay to rest when you need to.",
+          "Energy comes from taking care of yourself. Prioritize rest.",
+          "A light stretch or walk can help wake you up.",
+          "You deserve time to rest and recharge. Don't feel guilty for it.",
+          "Set a bedtime routine to ensure better sleep.",
+          "Try some light exercise to boost your energy levels."
+        ]
+
+      },     {
+        "tag": "depression",
+        "patterns": [
+          "I am feeling really down",
+          "I feel like I am in a dark place",
+          "I am struggling with depression",
+          "I am feeling hopeless",
+          "I don't have the energy to do anything",
+          "I am overwhelmed by sadness",
+          "I am feeling empty inside",
+          "I am just not myself lately",
+          "I can't shake this sadness",
+          "I am having a hard time coping"
+        ],
+        "responses": [
+          "I am really sorry to hear that you're feeling this way. You don't have to go through this alone.",
+          "It's okay to not be okay. Please consider talking to close friends or family about how you feel.",
+          "You are not alone in this. There are people who care about you and want to help.",
+          "Try to take small steps and be kind to yourself during this difficult time.",
+          "Even though it might be hard to see now, things can get better. Please reach out for support.",
+          "Please remember that seeking help from a mental health professional can make a big difference.",
+          "It's important to take breaks and allow yourself to rest. Your well-being matters.",
+          "Sometimes, just getting out of bed can be an achievement. Celebrate small victories.",
+          "Try to do something that brings you even a little bit of joy or comfort, even if it's small.",
+          "Please know that you are valued and loved. Reach out to someone you trust for support."
+        ]
+      },    {
+            "tag": "productivity",
+            "patterns": [
+                "How to be more productive",
+                "Tell me about time management",
+                "Productivity tips",
+                "What are some ways to boost productivity?",
+                "How do I stay productive throughout the day?",
+                "Tips for better time management",
+                "How can I improve my efficiency?",
+                "How do I get more done in less time?",
+                "Productivity hacks",
+                "How can I focus better at work?"
+            ],
+            "responses": [
+                "To be more productive, prioritize tasks, set goals, eliminate distractions, and take regular breaks.",
+                "Effective time management can lead to increased efficiency and reduced stress."
+            ]
+        },   {
+            "tag": "procrastination",
+            "patterns": [
+                "Tell me about overcoming procrastination",
+                "Tips to stay focused and productive",
+                "Breaking the cycle of procrastination",
+                "How do I stop procrastinating?",
+                "What are some strategies to overcome procrastination?",
+                "Why do I procrastinate so much?",
+                "How can I become more disciplined?",
+                "How do I motivate myself to start tasks?",
+                "Tips to avoid procrastination",
+                "How do I break the habit of procrastination?"
+            ],
+            "responses": [
+                "Overcoming procrastination involves breaking tasks into smaller steps, setting deadlines, and using time management techniques.",
+                "To stay focused and productive, create a conducive work environment, eliminate distractions, and reward yourself for completing tasks."
+            ]
+        },  {
+            "tag": "journaling",
+            "patterns": [
+                "Tell me about journaling benefits",
+                "How to start a journaling practice",
+                "Different journaling styles",
+                "What are the advantages of journaling?",
+                "How can journaling improve my life?",
+                "What should I write about in my journal?",
+                "Journaling techniques for beginners",
+                "What are some creative journaling ideas?",
+                "How do I make journaling a habit?",
+                "Can journaling help with stress?"
+            ],
+            "responses": [
+                "Journaling benefits include stress relief, self-reflection, and gaining insights into thoughts and emotions.",
+                "Starting a journaling practice can involve writing freely, using prompts, or maintaining a gratitude journal."
+            ]
+        },
+        {
+            "tag": "fear",
+            "patterns": [
+                "I feel scared about what's going to happen.",
+                "I am afraid of failing.",
+                "I feel terrified and don't know why.",
+                "I keep thinking of the worst-case scenario.",
+                "I am afraid to face this situation.",
+                "I have a fear of the unknown.",
+                "What if something bad happens?",
+                "I feel anxious about the future.",
+                "I can't stop thinking about my fears.",
+                "I'm scared to take risks."
+            ],
+            "responses": [
+                "Take a deep breath and focus on what you can control in this moment.",
+                "Try to write down your fears. Sometimes seeing them on paper makes them less overwhelming.",
+                "Remind yourself that fear is temporary, and you are capable of handling this.",
+                "Step away from the situation and focus on calming your body with slow breaths.",
+                "Talk to someone you trust about your fear. Sharing can help reduce its intensity."
+            ]
+        },   {
+            "tag": "confidence",
+            "patterns": [
+                "I don't believe in myself.",
+                "I feel like I am not good enough.",
+                "I am scared to put myself out there.",
+                "I doubt my abilities all the time.",
+                "I feel insecure about my skills.",
+                "How can I boost my self-confidence?",
+                "I don't feel confident when speaking in public.",
+                "Why do I always doubt myself?",
+                "I am afraid of being judged.",
+                "How do I overcome my insecurities?"
+            ],
+            "responses": [
+                "Remind yourself of past achievements, no matter how small. You are capable.",
+                "Challenge negative thoughts by asking if they are really true.",
+                "Practice positive self-talk and replace self-doubt with encouragement.",
+                "Set a small goal and acknowledge your success once you accomplish it.",
+                "Take a moment to reflect on your strengths and how they help you overcome challenges."
+            ]
+        },     {
+        "tag": "discouraged",
+        "patterns": [
+          "I feel so discouraged",
+          "I feel like giving up",
+          "I can't find the motivation",
+          "I'm feeling hopeless right now",
+          "I'm at my lowest point",
+          "I don't see the point in trying",
+          "I feel like I've failed",
+          "I'm tired of not getting anywhere",
+          "I feel defeated by everything",
+          "No matter what I do, it doesn't seem to work"
+        ],
+        "responses": [
+          "It's okay to feel down sometimes. Take a deep breath, and remember that this moment won't last forever. You've made it through hard times before, and you can do it again.",
+          "Feeling discouraged is part of the process. Break your goals down into smaller, manageable steps, and celebrate even the small wins.",
+          "Don't be too hard on yourself. Progress isn't always linear, and taking things one step at a time can make a huge difference.",
+          "It's normal to feel like this, but try to remind yourself of your strengths and past accomplishments.",
+          "Remember, it's okay to rest. Sometimes, a short break can provide the perspective you need to push forward.",
+          "Talk to someone you trust about how you're feeling. You'd be surprised at how much a conversation can lift your spirits.",
+          "When you feel like giving up, remind yourself why you started. This can help you rediscover your motivation.",
+          "Give yourself permission to take things slowly. It's better to move forward at your own pace than to burn out.",
+          "Try to look for the little wins throughout your day, even if they seem small. They add up over time.",
+          "Every setback is a setup for a comeback. You are resilient, and this challenge will make you stronger."
+        ]
+      }
+]
