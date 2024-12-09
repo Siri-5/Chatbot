@@ -41,7 +41,6 @@ special_cases = {
     "what can you do": "I can provide support, answer questions, and offer guidance. Just ask me anything!",
     "what is your work": "My work is to listen, understand, and provide helpful responses to your questions and concerns.",
     "help me": "I'm here to help! What do you need assistance with?",
-    "do you know abt lahari?": "yeahh...she is so bad",
     }
 
 def chatbot(input_text):
